@@ -1,66 +1,76 @@
-# 👋 Hey there, I’m **Armadi Nurhidayat**
+# 👋 Hey there, I’m **Armadi Nurhidayat**  
 
-✨ *Full Stack Developer*  
-Learning, building, & improving every single day 🚀
+✨ **Full Stack Developer**  
+🚀 Learning, building, and improving every single day  
+
+![Profile Views](https://komarev.com/ghpvc/?username=armadi04&color=blueviolet&style=flat)
 
 ---
 
 ## 🚀 About Me  
-Hi, I’m **Armadi Nurhidayat**, a passionate Full Stack Developer based in **Semarang, Indonesia** 🇮🇩  
-I absolutely love exploring modern web technologies and creating impactful applications with clean, efficient code.  
-I thrive on challenges, teamwork, and continuous learning to level up my skills every day 🌱 :contentReference[oaicite:1]{index=1}
+Hi! I’m **Armadi Nurhidayat**, a passionate **Full Stack Developer** based in **Semarang, Indonesia 🇮🇩**.  
+I love building modern web applications, learning new technologies, and turning ideas into real, impactful products.
+
+I believe consistency, teamwork, and continuous learning are the keys to growth 🌱  
 
 ---
 
 ## 🧠 What I Do  
-- 🔹 Build **responsive and high-performance web applications**  
-- 🔹 Develop both **frontend & backend features** with best practices  
-- 🔹 Always improving code quality & technical knowledge  
-- 🔹 Collaborate effectively with teams to deliver great digital products  
+- 🔹 Build **responsive & scalable web applications**  
+- 🔹 Work on both **frontend and backend development**  
+- 🔹 Continuously improve **code quality & performance**  
+- 🔹 Collaborate with teams to deliver meaningful solutions  
 
 ---
 
-## 🛠️ My Tech Stack  
+## 🛠️ Tech Stack  
 
-### 💻 Frontend Development  
+### 💻 Frontend  
 HTML • CSS • JavaScript • TypeScript  
 ReactJS • NextJS • TailwindCSS  
-Shadcn UI • React Icons • Huge Icons :contentReference[oaicite:2]{index=2}
+Shadcn UI • React Icons • Huge Icons  
 
-### ⚙️ Backend Development  
-Node.js • Express.js • Laravel :contentReference[oaicite:3]{index=3}
+### ⚙️ Backend  
+Node.js • Express.js • Laravel  
 
-### 🗄️ Database & Tools  
-PostgreSQL • Supabase • PhpMyAdmin :contentReference[oaicite:4]{index=4}
+### 🗄️ Database  
+PostgreSQL • Supabase • PhpMyAdmin  
 
-### 🧰 Other Tools & Tech  
-Git • GitHub • Docker • Canva  
-CapCut • Mikrotik • Cisco Packet Tracer :contentReference[oaicite:5]{index=5}
-
----
-
-## 📊 Experience  
-- 💼 **Full Stack Developer (Freelancer)** – Building real world apps & features  
-- 🧪 Continuous learner: Studying frameworks, best practices, and modern stacks  
-- 🛠️ Worked on **multiple projects** from portfolios to full applications :contentReference[oaicite:6]{index=6}
+### 🧰 Tools & Others  
+Git • GitHub • Docker  
+Canva • CapCut  
+Mikrotik • Cisco Packet Tracer  
 
 ---
 
-## 📌 Projects Highlights  
-Here’s a snapshot of my recent work:
-
-⭐ **TopLoker Sosmed** – Instagram social aggregator  
-🚀 **Personal Portfolio Web** – Dark theme modern portfolio  
-🛍️ **Medsky Movie Store** – Premium e-commerce project  
-🔗 **LinkUp App** – Link sharing platform  
-✨ **Multiple Portfolio Sites** using NextJS + TailwindCSS :contentReference[oaicite:7]{index=7}
+## 🧩 Skills Visualization  
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,laravel,postgresql,supabase,docker,git,github)
 
 ---
 
-## 💫 Let’s Connect  
-📫 **Email:** armadidev123@gmail.com  
-🌍 **Based in:** Semarang, Indonesia  
-➡️ Always open to collaborations, ideas & new challenges! :contentReference[oaicite:8]{index=8}
+## 📊 GitHub Stats  
+![Armadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=armadi04&show_icons=true&theme=tokyonight&hide_border=true)
 
-> *Learning, building, and improving every single day.* 🚀
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armadi04&layout=compact&theme=tokyonight&hide_border=true)
 
+---
+
+## 📌 Project Highlights  
+⭐ **TopLoker Linktree** – Social media & job link aggregator  
+🚀 **Personal Portfolio Website** – Modern dark theme portfolio  
+🛍️ **E-Commerce Projects** – Full stack implementation  
+🔗 **Link Sharing Apps & Utilities**  
+
+➡️ More projects available on my repositories 👇  
+
+---
+
+## 🌐 Let’s Connect  
+- 💼 GitHub: [https://github.com/armadi04](https://github.com/armadi04)  
+- 🌍 Portfolio: [https://www.armadii.my.id](https://www.armadii.my.id)  
+- 📍 Location: Semarang, Indonesia  
+
+---
+
+⭐ *Learning, building, and improving every single day.*  
+🔥 *Let’s create something awesome together.*
