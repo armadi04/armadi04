@@ -46,7 +46,7 @@ Mikrotik • Cisco Packet Tracer
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,laravel,postgresql,supabase,docker,git,github&perline=7" />
 </p>
 
----
+<!-- =====---
 
 ## 📈 GitHub Activity Graph
 
@@ -54,7 +54,7 @@ Mikrotik • Cisco Packet Tracer
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=armadi04" />
 </p>
 
----
+---===== -->
 
 ## 🐍 Contribution Snake
 
