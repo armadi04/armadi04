@@ -48,24 +48,19 @@ Mikrotik • Cisco Packet Tracer
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=armadi04&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armadi04&layout=compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=armadi04" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=armadi04" />
+  <img src="https://raw.githubusercontent.com/armadi04/armadi04/output/github-contribution-grid-snake.svg" />
 </p>
-
 
 ---
 
