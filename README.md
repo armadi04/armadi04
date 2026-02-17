@@ -66,7 +66,7 @@ Mikrotik • Cisco Packet Tracer
 
 ## 🌐 Let’s Connect  
 - 💼 GitHub: https://github.com/armadi04  
-- 🌍 Portfolio: https://armadii27.vercel.app/
+- 🌍 Portfolio: https://armadii.my.id/
 - 📍 Semarang, Indonesia  
 
 ---
