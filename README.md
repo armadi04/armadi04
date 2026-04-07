@@ -26,13 +26,13 @@ I enjoy building modern web applications, learning new technologies, and turning
 ### 💻 Frontend  
 HTML • CSS • JavaScript • TypeScript  
 ReactJS • NextJS • TailwindCSS  
-Shadcn UI • React Icons • Huge Icons  
+Shadcn UI • React Icons • Huge Icons • Lucide icons
 
 ### ⚙️ Backend  
 Node.js • Express.js • Laravel  
 
 ### 🗄️ Database  
-PostgreSQL • Supabase • PhpMyAdmin  
+PostgreSQL • Supabase  
 
 ### 🧰 Tools  
 Git • GitHub • Docker  
