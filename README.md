@@ -29,10 +29,10 @@ ReactJS • NextJS • TailwindCSS
 Shadcn UI • React Icons • Huge Icons • Lucide icons
 
 ### ⚙️ Backend  
-Node.js • Express.js • Laravel  
+Node.js • Express.js • Bun
 
 ### 🗄️ Database  
-PostgreSQL • Supabase  
+PostgreSQL • Supabase  • MySQL • MongoDB
 
 ### 🧰 Tools  
 Git • GitHub • Docker  
