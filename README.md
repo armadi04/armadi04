@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armadi04&theme=tokyonight" />
+  <img width="100%" height="20%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armadi04&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -13,6 +13,7 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=armadi04&theme=tokyonight" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=armadi04&theme=tokyonight&utcOffset=7" />
 </p>
+
 ---
 # 👋 About Me
 
