@@ -156,34 +156,17 @@ I am a passionate Full Stack Developer focused on building scalable web applicat
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=armadi04&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true"
-  />
-
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=armadi04&layout=compact&langs_count=12&count_private=true&theme=tokyonight&hide_border=true"
-  />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armadi04&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=armadi04&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
-  />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=armadi04&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=armadi04&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=armadi04&theme=tokyo-night&hide_border=true&radius=8"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=armadi04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"
-  />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=armadi04&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=armadi04&theme=tokyonight&utcOffset=7" />
 </p>
 
 ---
