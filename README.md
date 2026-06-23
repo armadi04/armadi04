@@ -112,22 +112,6 @@ I am a Full Stack Developer passionate about building scalable web applications,
 
 ---
 
-# 🚀 Featured Projects
-
-### 🎓 TopScore
-
-Modern online tryout platform built with modern web technologies.
-
-### 💼 TopLoker
-
-Platform that connects students and opportunities.
-
-### 📚 Ototop Documentation
-
-Documentation platform with advanced navigation and search experience.
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
