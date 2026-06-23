@@ -153,7 +153,7 @@ I am a passionate Full Stack Developer focused on building scalable web applicat
 </p>
 
 ---
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
   <img
@@ -167,9 +167,11 @@ I am a passionate Full Stack Developer focused on building scalable web applicat
   />
 </p>
 
----
-
-# 📈 GitHub Activity Graph
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=armadi04&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+  />
+</p>
 
 <p align="center">
   <img
@@ -177,20 +179,6 @@ I am a passionate Full Stack Developer focused on building scalable web applicat
     src="https://github-readme-activity-graph.vercel.app/graph?username=armadi04&theme=tokyo-night&hide_border=true&radius=8"
   />
 </p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=armadi04&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
-  />
-</p>
-
----
-
-# 🏆 GitHub Trophies
 
 <p align="center">
   <img
