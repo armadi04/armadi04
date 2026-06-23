@@ -37,22 +37,7 @@ Building modern web applications with React, Next.js, Node.js, Laravel, PostgreS
 Hi, I'm **Armadi Nurhidayat** from **Semarang, Indonesia 🇮🇩**.
 
 I am a passionate Full Stack Developer focused on building scalable web applications, modern user experiences, and robust backend systems.
-
-Currently exploring software architecture, system design, cloud technologies, and modern web development ecosystems.
-
 > 💡 Consistency beats talent when talent doesn’t work hard.
-
----
-
-# 🎯 Current Focus
-
-- 🚀 Building TopScore by TopLoker.com
-- 🏗 Building scalable full-stack applications
-- ⚡ Next.js 16 & React Server Components
-- 🐳 Docker & Deployment Workflows
-- 📚 Software Architecture & System Design
-- ☁️ Cloud Infrastructure & DevOps
-
 ---
 
 # 🛠 Tech Stack & Skills
@@ -168,19 +153,6 @@ Currently exploring software architecture, system design, cloud technologies, an
 </p>
 
 ---
-
-# 🚀 Featured Projects
-
-### 🎓 TopScore
-Online Tryout Platform built with Next.js, NestJS, PostgreSQL and Redis.
-
-### 💼 TopLoker
-Career ecosystem connecting students and opportunities.
-
-### 📚 Ototop Documentation
-Modern documentation platform with advanced search and role-based navigation.
-
----
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -233,19 +205,6 @@ Modern documentation platform with advanced search and role-based navigation.
 <p align="center">
   <img src="https://raw.githubusercontent.com/armadi04/armadi04/output/github-contribution-grid-snake.svg" />
 </p>
-
----
-
-# 🌱 Currently Learning
-
-- Advanced Next.js Architecture
-- React Server Components
-- NestJS Architecture
-- System Design
-- Software Architecture
-- Docker & DevOps
-- Cloud Infrastructure
-- Scalable Backend Development
 
 ---
 
