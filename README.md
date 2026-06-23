@@ -36,17 +36,6 @@ Hi, I'm **Armadi Nurhidayat** from **Semarang, Indonesia 🇮🇩**.
 
 I am a Full Stack Developer passionate about building scalable web applications, learning modern technologies, and creating digital products that solve real-world problems.
 
-Currently focused on:
-
-- 🚀 Full Stack Web Development
-- ⚡ Next.js & React Ecosystem
-- 🏗 Backend Development with Node.js
-- 🐳 Docker & Deployment
-- 🗄 Database Design & Optimization
-- 📚 Continuous Learning & System Design
-
-> 💡 Consistency beats talent when talent doesn’t work hard.
-
 ---
 
 # 🛠 Tech Stack
